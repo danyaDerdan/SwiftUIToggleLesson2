@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  ToggleTrain
-//
-//  Created by Данил Толстиков on 02.11.2024.
-//
-
 import SwiftUI
 
 struct ContentView: View {
